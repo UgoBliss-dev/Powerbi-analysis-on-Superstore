@@ -1,9 +1,9 @@
 # Powerbi-analysis-on-Superstore
 ## Introduction:
-As part of the Data Science class assessment organized by PSP Analytics, I analyzed the Superstore Dataset to evaluate the performance of a superstore located in the United States. The dataset contains shipping dates, sales, profit, and other relevant data.
+As part of the Data Analysis class assessment organized by PSP Analytics, I analyzed the Superstore Dataset to evaluate the performance of a superstore located in the United States. The dataset contains shipping dates, sales, profit, and other relevant data.
 
 ## Data Sourcing:
-The dataset was obtained from the Data Science Class announcement channel, posted by Mr. Zion Segun.
+The dataset was obtained from the Class announcement channel, posted by Mr. Zion Segun.
 
 ## Data Preparation:
 The dataset was loaded into Power BI in excel format. Data cleaning and transformation were performed to ensure accuracy.
